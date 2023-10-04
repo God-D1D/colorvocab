@@ -1,0 +1,28 @@
+image{
+    height: 200px; width: 200px;
+}
+
+.color-Title{
+    font-weight: normal;
+}
+
+#redsquare{
+    color: red;
+}
+
+#bluesquare{
+    color: blue;
+}
+
+#orangesquare{
+    color: orange;
+}
+
+#greensquare{
+    color: green;
+}
+
+#yellowsquare{
+    color:yellow;
+}
+
